@@ -1,8 +1,8 @@
-# 【Cloudflare Pages】2024年最新！NextAuth v5で認証機能を作る
+# 【Auth.js】NextAuth v5で認証機能を作って、Cloudflare Pagesにデプロイする
 
 ## YouTube
 
-[!["【Cloudflare Pages】2024年最新！NextAuth v5で認証機能を作る"](https://i.ytimg.com/vi/-3EoYGs4THw/maxresdefault.jpg)](https://youtu.be/-3EoYGs4THw)
+[!["【Auth.js】NextAuth v5で認証機能を作って、Cloudflare Pagesにデプロイする"](https://i.ytimg.com/vi/-3EoYGs4THw/maxresdefault.jpg)](https://youtu.be/-3EoYGs4THw)
 
 ## 技術選定
 
