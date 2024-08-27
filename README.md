@@ -19,3 +19,14 @@
 ```bash
 npm install
 ```
+
+### 環境変数を設定
+
+ファイル`.env.local.sample`を`.env.local`に変更して、各環境変数を指定する
+
+```sh:.env.local
+AUTH_SECRET=
+
+AUTH_GITHUB_ID=
+AUTH_GITHUB_SECRET=
+```
